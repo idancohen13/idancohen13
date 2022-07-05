@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idancohen13
 - 👀 I’m interested in data analytics and finding insights 
 - 🌱 I’m currently learning python and sql
-- 💞️ I’m looking to collaborate on projects in need for analysis
+- 💞️ I’m looking to collaborate on projects in need of analysis
 - 📫 How to reach me idanc86@gmail.com
 
 <!---
